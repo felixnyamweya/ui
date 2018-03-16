@@ -5,7 +5,7 @@ class Header extends Component {
     return (
           <nav class="navbar navbar-dark bg-primary">
             <a class="btn btn-primary" href="/" role="button">Home</a>            
-            <a class="btn btn-light" href="#" role="button">GitHub</a>
+            <a class="btn btn-light" href="https://github.com/felixnyamweya/ui" role="button">GitHub</a>
           </nav>
     );
   }
